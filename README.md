@@ -1,2 +1,3 @@
-# ai-evaluation-langflow-phoenix-
-Using Langflow and Arize Phoenix for rapidly developing and evaluating a RAG chatbot.
+# ai-evaluation-langflow-phoenix
+
+This repository shows how to use Langflow and Arize Phoenix to evaluate AI flows build in Langflow for accuracy and log the experiment results to Phoenix.
